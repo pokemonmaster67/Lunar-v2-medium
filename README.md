@@ -1,4 +1,4 @@
-# Lunar-v2-medium Language Model
+# Lunar-v2-medium
 
 A powerful and efficient medium-sized language model with 120M parameters (expandable to 150M). Built with state-of-the-art transformer architecture and optimized for both performance and efficiency.
 
